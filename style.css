@@ -1,0 +1,101 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+h1{
+    font-size: 60px;
+}
+h2{
+    font-size: 50px;
+}
+span{
+    color: orange;
+}
+.link-button{
+    background-image: linear-gradient(orange, #c4c479);
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: 600;
+}
+.peter-parker{
+    display: flex;
+    background-image: url(image/top-banner.png);
+    background-repeat: no-repeat;
+}
+.haf-width{
+    width: 50%;
+    padding: 5%;
+
+}
+.haf-width img{
+    width: 100%;
+}
+
+
+.drem-big-web{
+    display: flex;
+    background-image: url(image/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.drem-big{
+    font-size: 45px;
+}
+.become{
+    font-size: 20px;
+}
+.name{
+    font-size: 35px ;
+    color: orange;
+}
+.text{
+    background-color: palegoldenrod;
+    padding: 10px;
+}
+.personal-blog{
+    display: flex;
+}
+.img-personal{
+    border: 5px solid black;
+
+}
+.friends{
+    text-align: center;
+    color: cornflowerblue;
+}
+.exper{
+    background-image: url(image/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.box-shadow{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    border-radius: 15px;
+    box-shadow: 10px 10px 40px gray;
+}
+#full{
+    border-image: linear-gradient(red, blue);
+    border-left: 7px solid;
+    border-image-slice: 1;
+}
+#baby{
+    border-image: linear-gradient(orange, blue);
+    border-left: 7px solid;
+    border-image-slice: 1;
+}
+.dev{
+    font-size: 30px;
+}
+.yellow{
+    color: yellow;
+}
+.footer{
+   text-align: center;
+    color: yellowgreen;
+}
+
+
